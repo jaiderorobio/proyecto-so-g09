@@ -21,7 +21,6 @@ El grupo 09 está conformado por un integrante, quien asumirá las responsabilid
 |---|---|---|
 | Jaider Stiven Valencia Orobio | Coordinador y encargado del repositorio | Organizar las actividades, administrar GitHub y realizar las entregas. |
 | Jaider Stiven Valencia Orobio | Máquinas virtuales y redes | Instalar Manjaro y Ubuntu Server, configurar las particiones y comprobar la conexión de red. |
-| Jaider Stiven Valencia Orobio | Seguridad y usuarios | Configurar usuarios, permisos, firewall y servicios. |
 | Jaider Stiven Valencia Orobio | Scripts y procesos | Desarrollar los scripts y comprobar el funcionamiento de los procesos. |
 | Jaider Stiven Valencia Orobio | Docker y Kubernetes | Crear una imagen basada en Fedora, publicarla en Docker Hub y realizar el despliegue solicitado. |
 | Jaider Stiven Valencia Orobio | Sitio web y evidencias | Organizar capturas, comandos, videos y publicar el sitio en GitHub Pages. |
