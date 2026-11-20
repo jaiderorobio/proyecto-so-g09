@@ -47,4 +47,3 @@ La combinación asignada por el profesor al grupo 09 es **Manjaro** (VM gráfica
 - **Fedora:** se usará `FROM fedora:45` en el futuro Dockerfile, no se instalará como una tercera máquina virtual.
 - **Pruebas prácticas:** todavía no se han realizado. Las capturas, resultados de instalación y solución de problemas se agregarán cuando existan evidencias propias.
 
-> Nota: esta ficha recoge información de las fuentes enlazadas. Antes de entregarla, el integrante debe revisar que los datos y las decisiones coincidan con el entorno real que utilizará.
