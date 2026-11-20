@@ -9,7 +9,7 @@ La combinación asignada por el profesor al grupo 09 es **Manjaro** (VM gráfica
 
 ## 1. Manjaro XFCE - VM gráfica `g09-grafica`
 
-| Pregunta de la V11 | Respuesta investigada | Fuente |
+| Pregunta | Respuesta investigada | Fuente |
 | --- | --- | --- |
 | 1. Versión y fecha de lanzamiento | **Manjaro 26.1.3 XFCE, Bian-May**, imagen publicada el **28 de octubre de 2026**. Para la VM se considera la ISO XFCE con kernel 6.18 LTS. | [Anuncio oficial y enlaces ISO](https://forum.manjaro.org/t/manjaro-26-1-bian-may-released/189526) |
 | 2. ¿Hasta cuándo recibe actualizaciones de seguridad? | **No tiene fecha de fin de soporte fija por versión**, porque Manjaro emplea actualizaciones continuas (*rolling release*). Es necesario instalar las actualizaciones del sistema y revisar el soporte del kernel elegido. | [Modelo rolling release](https://wiki.manjaro.org/index.php?title=The_Rolling_Release_Development_Model), [mantenimiento](https://wiki.manjaro.org/index.php?title=System_Maintenance) |
